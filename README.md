@@ -8,3 +8,5 @@ My projects for the MSc course 'Geospatial data analysis'.
 ### Project 2: Postgres database, analysis of weather time-series and folium map 
 <img src="imgs/precipitation.png">
 <img src="imgs/map.png">
+
+### Project 3: Classification and semantic segmentation of satellite images
