@@ -5,5 +5,5 @@ My projects for the MSc course 'Geospatial data analysis'.
 
 <p float="left">
 <img src="imgs/max_ndvi2019.png">
-<img src="imgs/poly4.png" width="100">
+<img src="imgs/poly4.png" width="500">
 </p>
