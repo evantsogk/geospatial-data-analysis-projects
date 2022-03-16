@@ -5,5 +5,6 @@ My projects for the MSc course 'Geospatial data analysis'.
 <img src="imgs/poly4.png">
 <img src="imgs/max_ndvi2019.png">
 
-### Project 2: Postgres database, folium map, and analysis of weather time-series
+### Project 2: Postgres database, analysis of weather time-series and folium map 
 <img src="imgs/precipitation.png">
+<img src="imgs/map.png">
